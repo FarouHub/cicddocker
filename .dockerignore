@@ -1,0 +1,7 @@
+docker/
+.git/
+
+.env
+.env.local
+
+.env.docker.local

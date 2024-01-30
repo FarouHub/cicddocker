@@ -1,0 +1,8 @@
+.env
+.env.local
+.env.docker.local
+
+docker/
+
+docker-compose.yml
+names.csv
