@@ -13,7 +13,6 @@ jobs:
       matrix:
         operating-system: [ubuntu-latest]
         php-versions: ['8.1']
-        node-version: ['18.12']
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -48,6 +47,5 @@ jobs:
         with:
           push: true
           tags: baqmen/cicddocker:latest
-          file: docker/app/Dockerfile
 
   
