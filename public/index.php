@@ -11,7 +11,7 @@
 <h2>CSV File Contents</h2>
 
 <table border="1">
-    <tr>
+    <tr style="color:red;">
         <th>Name</th>
         <th>First Name</th>
         <th>Comment</th>
