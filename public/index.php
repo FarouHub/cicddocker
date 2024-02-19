@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<h2>CSV File Contents</h2>
+<h2>CSV File Contents avec le titre en rouge</h2>
 
 <table border="1">
     <tr style="color:red;">
