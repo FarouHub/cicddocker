@@ -11,9 +11,9 @@
 <h2>CSV File Contents avec le titre en rouge</h2>
 
 <table border="1">
-    <tr style="color:red;">
-        <th>Name</th>
-        <th>First Name</th>
+    <tr style="color: red;">
+        <th>Namee</th>
+        <th>First Nameee</th>
         <th>Comment</th>
     </tr>
 
